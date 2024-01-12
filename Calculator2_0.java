@@ -351,7 +351,7 @@ public class Calculator2_0 {
 			}
 		});
 		buttonAdd.setText("+");
-		buttonAdd.setBounds(334, 102, 102, 85);
+		buttonAdd.setBounds(334, 375, 102, 85);
 
 		Button buttonSub = new Button(shell, SWT.NONE);
 		buttonSub.setFont(SWTResourceManager.getFont(".AppleSystemUIFont", 25, SWT.NORMAL));
@@ -379,7 +379,7 @@ public class Calculator2_0 {
 			}
 		});
 		buttonSub.setText("-");
-		buttonSub.setBounds(334, 193, 102, 85);
+		buttonSub.setBounds(334, 284, 102, 85);
 
 		Button buttonMul = new Button(shell, SWT.NONE);
 		buttonMul.setFont(SWTResourceManager.getFont(".AppleSystemUIFont", 25, SWT.NORMAL));
@@ -407,7 +407,7 @@ public class Calculator2_0 {
 			}
 		});
 		buttonMul.setText("x");
-		buttonMul.setBounds(334, 284, 102, 85);
+		buttonMul.setBounds(334, 193, 102, 85);
 
 		Button buttonDiv = new Button(shell, SWT.NONE);
 		buttonDiv.setFont(SWTResourceManager.getFont(".AppleSystemUIFont", 25, SWT.NORMAL));
@@ -436,7 +436,7 @@ public class Calculator2_0 {
 			}
 		});
 		buttonDiv.setText("÷");
-		buttonDiv.setBounds(334, 375, 102, 85);
+		buttonDiv.setBounds(334, 102, 102, 85);
 
 		///////////////////////////////////////////////////////////////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////////////////
