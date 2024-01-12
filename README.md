@@ -4,7 +4,7 @@ This a simple calculator, made to have basic and helpful operations for all user
 
 It contains the four main operations such as addition, subtraction, multiplication, and division signs. 
 
-The additional buttons found on the calculator are the save, paste, and clear buttons. Just as their names propose, their purposes are the same. 
+The additional buttons found on the calculator are the save, paste, and clear buttons. Just as their names propose, their purposes are the same:
 
 - The save button will save the current number which you have on your screen.
 - The paste button will paste the current number saved in its history and override whichever other number you had.
